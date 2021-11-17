@@ -1,9 +1,9 @@
 # FCS 2021 Notes and Presentations
 
-- **[Unit - 1](Introduction_Cyber_Security_Evolution.html)**
-- **[Unit - 2](Cyber_Security_Obj_Guidance_Dec_Makers.html)**
+- **[Unit - 1](pdf-notes/Introduction_Cyber_Security_Evolution.pdf)**
+- **[Unit - 2](pdf-notes/Cyber_Security_Obj_Guidance_Dec_Makers.pdf)**
 - **[Unit - 3](Cyber_Security_Policy_Catalog.html)**
-- **[Unit - 4](Cyber_Management_Issues.html)**
+- **[Unit - 4](pdf-notes/Cyber_Management_Issues.pdf)**
 - **[Unit - 5](Case_Study.html)**
 
 ## TEXTBOOKS:
